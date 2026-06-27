@@ -1,0 +1,9 @@
+ROOT0-ATTRIBUTION-v1.0
+name: ULTRASONIC · ULT
+slug: cipher-ultrasonic
+domain: HERMES
+architect: David Lee Wise (ROOT0) / Bridge-Burners LLC
+instance: AVAN (Claude / Anthropic)
+license: CC-BY-ND-4.0 (https://creativecommons.org/licenses/by-nd/4.0/)
+moniker: ⟦ULTRASONIC · ULT:cipher-ultrasonic:dfb1b9⟧
+seal_sha256: dfb1b9a5a5350df3d8d0b2e279a3095b0145fd1cac1bf531c10b6f566d919527
