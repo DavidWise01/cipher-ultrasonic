@@ -4,6 +4,6 @@ slug  : cipher-ultrasonic
 seal  : dfb1b9a5a5350df3d8d0b2e279a3095b0145fd1cac1bf531c10b6f566d919527
 prev  : 7e5b17356892f7dc2b68cdc11e59049b0c19eb0a99a2da6f4edccec4fa660e0f
 link  : 0820fa65e3d66219c9d21e3028864b17667c0292d8097400aae457e1d916012b
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
