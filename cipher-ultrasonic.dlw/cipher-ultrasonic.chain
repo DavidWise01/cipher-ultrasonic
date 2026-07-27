@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 502
 slug  : cipher-ultrasonic
 seal  : dfb1b9a5a5350df3d8d0b2e279a3095b0145fd1cac1bf531c10b6f566d919527
-prev  : 7e5b17356892f7dc2b68cdc11e59049b0c19eb0a99a2da6f4edccec4fa660e0f
-link  : 0820fa65e3d66219c9d21e3028864b17667c0292d8097400aae457e1d916012b
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : 7aa4e5202f98ec7658dc92b7948d8f42709f907341b0b908604d3d6fc1d6efc9
+link  : 280909dc4a8e59e4a27c424aa3635df7381d09cf105aec3acfdeb45f5d916bf3
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
